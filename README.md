@@ -52,7 +52,7 @@ Subnet besar `10.63.0.0/22` ini yang kemudian dipecah-pecah menggunakan teknik *
 
 ## Tree VLSM 
 
-<img width="3" height="8" alt="image" src="https://github.com/user-attachments/assets/69929734-5e39-4b3e-bbc9-d2f455cbb50a" />
+<img width="1052" height="643" alt="image" src="https://github.com/user-attachments/assets/bd3b82a1-d7ff-4de4-92dc-2ecdfc932fa6" />
 
 ## CIDR
 
