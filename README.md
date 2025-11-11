@@ -81,7 +81,7 @@ Semua subnet di atas berada di dalam **subnet besar** 10.63.0.0/22.
 | Langkah | Subnet yang Digabung              | Network ID Hasil | Prefix Hasil | Netmask Hasil     | Keterangan                      |
 |--------:|-----------------------------------|-----------------:|:------------:|-------------------|----------------------------------|
 | 1       | A1 (10.63.3.192/27)              | 10.63.3.192      | /26         | 255.255.255.192   | Rentang 10.63.3.192–10.63.3.255 |
-|         | A2 (10.63.3.248/30)              |                  |             |                   | Termasuk di dalam blok /26 ini  |
+| 2        | A2 (10.63.3.248/30)              | 10.63.3.248                 |  /30           |  255.255.255.25                 |   |
 
 Hasil penggabungan:
 
