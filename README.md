@@ -130,6 +130,3 @@ Ringkasan terbesar:
 ## Tree CIDR
 <img width="1739" height="610" alt="image" src="https://github.com/user-attachments/assets/515047d2-6108-4aa2-bda4-525445b86332" />
 
-B1 = 10.63.0.0/22 → menggabungkan A3, A4, A5, A6, A7, A8
-B2 = 10.63.3.192/26 → di diagram hanya diturunkan menjadi A1 dan A2
-C1 = 10.63.0.0/21 → summary paling besar di atas B1 dan B2
